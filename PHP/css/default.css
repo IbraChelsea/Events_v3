@@ -1,0 +1,123 @@
+body {
+    margin:0;
+    font:normal 11px Arial;
+    color:#333333;
+    background:#F4F4F4;
+}
+
+.labelSpacing {
+    padding-top: 10px;
+}
+
+.popInput, .dijitTextBox {
+    background-color: #f6f6f6 !important;
+    margin-top:3px;
+}
+
+.button {
+    background-color: #fff;
+    margin-top:3px;
+}
+
+select {
+    background-color: #f6f6f6;
+}
+
+.popRadio {
+    width: 11px;
+    height: 11px;
+    position: relative;
+    top: 2px;
+}
+
+.popCheck {
+    width: 11px;
+    height: 11px;
+    position: relative;
+    top: 8px;
+    margin-left:0;
+}
+
+#wrap {
+    width:630px;
+    height:auto;
+    background:#fff;
+    margin:0;
+    margin:10px 0;
+    padding:0;
+    padding-bottom:10px;
+    border:1px solid #ddd;
+}
+
+#header {
+    width:630px;
+    text-align:left;
+}
+
+#familylogo {
+    float:left;
+    padding: 15px 10px;
+    padding-bottom:10px;
+}
+
+#ikealogo {
+    float:right;
+    padding: 10px 15px;
+    padding-bottom:10px;
+}
+
+#familylogopic {
+    width:209;
+    height:23;
+    display:block;
+    border:none;
+    outline:none;
+}
+
+#ikealogopic {
+    width:123;
+    height:42;
+    border:none;
+    outline:none;
+}
+
+#headline {
+    background:#FF7E28;
+    clear:both;
+    padding-left:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+#headline h1 {
+    color:#fff;
+    margin:0;
+    padding:0;
+}
+
+#introtext {
+    padding-left:20px;
+}
+
+#introtext h2 {
+    color:#FF6600;
+    font-size:14px;
+    font-weight:bold;
+}
+
+#content {
+    text-align:left;
+    padding-left:20px;
+}
+
+#buttonline {
+    text-align:right;
+    padding-right:15px;
+    margin-top:10px;
+}
+
+.errorMarker {
+    background-image: url('../js/dojo/dijit/themes/claro/form/images/error.png');
+    background-repeat: no-repeat;
+    background-position: right top;
+}
