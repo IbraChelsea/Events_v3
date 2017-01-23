@@ -1,0 +1,5 @@
+<?php 
+
+// participations.php
+
+ ?>
