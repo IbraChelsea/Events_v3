@@ -7,7 +7,7 @@
 //define('MYSQL_PASSWORD', '');
 //define('MYSQL_DATABASE', '');
 
-include_once '../inc/baseconfig.inc.php';
+include_once '../inc1/baseconfig.inc.php';
 
 //Treffpunkt des Seminars
 define('SEMINAR_TREFFPUNKT', 'robna kuća IKEA Zagreb, na ulazu kraj info-pulta');

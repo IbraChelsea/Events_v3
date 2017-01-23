@@ -101,3 +101,8 @@ Thu, 12 Jan 2017 14:28:06 +0100	ERROR	Process could not be started [Das System k
 Fri, 13 Jan 2017 11:13:56 +0100	INFO	Saved regstration for 6275980474581236954 for event hr161213
 Fri, 13 Jan 2017 11:14:01 +0100	ERROR	Process could not be started [Das System kann den angegebenen Pfad nicht finden.
 ] in C:\Users\ibrahim.alali\code\events_at\TEST_DB\inc\Swift\classes\Swift\Transport\StreamBuffer.php on line 288
+Thu, 19 Jan 2017 12:59:03 +0000	ERROR	Unbekannter Event-Code: "hr161213" in C:\wamp64\www\events_v3\PHP\inc1\base.inc.php on line 39
+Thu, 19 Jan 2017 12:59:34 +0000	ERROR	Unbekannter Event-Code: "hr161213" in C:\wamp64\www\events_v3\PHP\inc1\base.inc.php on line 39
+Thu, 19 Jan 2017 13:02:57 +0000	ERROR	Unbekannter Event-Code: "hr161213" in C:\wamp64\www\events_v3\PHP\inc1\base.inc.php on line 39
+Thu, 19 Jan 2017 13:03:50 +0000	ERROR	Unbekannter Event-Code: "hr161213" in C:\wamp64\www\events_v3\PHP\inc1\base.inc.php on line 39
+Fri, 20 Jan 2017 07:23:12 +0000	ERROR	Unbekannter Event-Code: "hr161213" in C:\wamp64\www\events_v3\PHP\inc1\base.inc.php on line 39

@@ -13,8 +13,8 @@
         </script>
         <script src="../js/default.js?v6"></script>
         <link rel="stylesheet" href="../js/dojo/dijit/themes/claro/claro.css" media="screen">
-        <link rel="stylesheet" type="text/css" href="../css/default.css" />
-        <link rel="stylesheet" type="text/css" href="css/custom.css" />
+        <link rel="stylesheet" type="text/css" href="../css1/default.css" />
+        <link rel="stylesheet" type="text/css" href="css1/custom.css" />
     </head>
 	
 	<!-- xxx -->

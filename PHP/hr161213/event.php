@@ -2,7 +2,7 @@
 error_reporting(E_ALL);
 
 include_once 'config.php';
-include_once '../inc/base.inc.php';
+include_once '../inc1/base.inc.php';
 
 
 
