@@ -1,0 +1,18 @@
+Thu, 19 Jan 2017 11:36:23 +0000	ERROR	Array to string conversion in C:\wamp64\www\events_v3\PHP\inc\base.inc.php on line 35
+Thu, 19 Jan 2017 11:38:54 +0000	ERROR	Array to string conversion in C:\wamp64\www\events_v3\PHP\inc\base.inc.php on line 35
+Thu, 19 Jan 2017 11:58:56 +0000	ERROR	Array to string conversion in C:\wamp64\www\events_v3\PHP\inc\base.inc.php on line 35
+Thu, 19 Jan 2017 11:59:06 +0000	ERROR	Array to string conversion in C:\wamp64\www\events_v3\PHP\inc\base.inc.php on line 35
+Thu, 19 Jan 2017 12:01:57 +0000	ERROR	Array to string conversion in C:\wamp64\www\events_v3\PHP\inc\base.inc.php on line 35
+Thu, 19 Jan 2017 12:01:59 +0000	ERROR	Array to string conversion in C:\wamp64\www\events_v3\PHP\inc\base.inc.php on line 35
+Thu, 19 Jan 2017 12:02:00 +0000	ERROR	Array to string conversion in C:\wamp64\www\events_v3\PHP\inc\base.inc.php on line 35
+Thu, 19 Jan 2017 12:05:39 +0000	ERROR	Array to string conversion in C:\wamp64\www\events_v3\PHP\inc\base.inc.php on line 35
+Thu, 19 Jan 2017 12:20:26 +0000	ERROR	Array to string conversion in C:\wamp64\www\events_v3\PHP\inc\base.inc.php on line 35
+Thu, 19 Jan 2017 12:20:27 +0000	ERROR	Array to string conversion in C:\wamp64\www\events_v3\PHP\inc\base.inc.php on line 35
+Thu, 19 Jan 2017 12:31:42 +0000	ERROR	SQLSTATE[HY000] [2002] Ein Verbindungsversuch ist fehlgeschlagen, da die Gegenstelle nach einer bestimmten Zeitspanne nicht richtig reagiert hat, oder die hergestellte Verbindung war fehlerhaft, da der verbundene Host nicht reagiert hat.
+ in C:\wamp64\www\events_v3\PHP\inc\base.inc.php on line 20
+Thu, 19 Jan 2017 12:32:38 +0000	ERROR	SQLSTATE[HY000] [1045] Access denied for user 'user'@'localhost' (using password: YES) in C:\wamp64\www\events_v3\PHP\inc\base.inc.php on line 20
+Thu, 19 Jan 2017 12:32:56 +0000	ERROR	SQLSTATE[HY000] [1045] Access denied for user 'user'@'localhost' (using password: YES) in C:\wamp64\www\events_v3\PHP\inc\base.inc.php on line 20
+Thu, 19 Jan 2017 12:33:26 +0000	ERROR	SQLSTATE[HY000] [1045] Access denied for user 'user'@'localhost' (using password: YES) in C:\wamp64\www\events_v3\PHP\inc\base.inc.php on line 20
+Thu, 19 Jan 2017 12:36:36 +0000	ERROR	SQLSTATE[HY000] [1045] Access denied for user 'user'@'localhost' (using password: YES) in C:\wamp64\www\events_v3\PHP\inc\base.inc.php on line 20
+Thu, 19 Jan 2017 12:36:38 +0000	ERROR	SQLSTATE[HY000] [1045] Access denied for user 'user'@'localhost' (using password: YES) in C:\wamp64\www\events_v3\PHP\inc\base.inc.php on line 20
+Thu, 19 Jan 2017 12:36:38 +0000	ERROR	SQLSTATE[HY000] [1045] Access denied for user 'user'@'localhost' (using password: YES) in C:\wamp64\www\events_v3\PHP\inc\base.inc.php on line 20
